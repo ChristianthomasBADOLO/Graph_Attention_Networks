@@ -35,4 +35,3 @@ In our model, nodes represent images themselves.
 By following this preprocessing pipeline, we transform raw image data into a format suitable for GAT-based analysis and classification of chest X-ray images.
 
 ---
-
